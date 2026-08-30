@@ -61,28 +61,3 @@ Exploratory data analysis on ~49k survey respondents.
 - Education of top earners and industries among high-paid remote workers
 
 ➡️ [Notebook](https://github.com/victoria-artemieva/Victoria-Artemieva-Data-Projects/blob/main/Stack_Overflow_Developer_Survey_Analysis.ipynb)
-
----
-
-## Skills
-
-| Area | Tools / methods |
-| --- | --- |
-| SQL & databases | PostgreSQL, DBeaver, BigQuery (course), CTEs, JOINs, aggregations |
-| Python | Pandas, NumPy, Jupyter, EDA |
-| BI & spreadsheets | Tableau, Google Sheets, Excel |
-| Analytics | Cohort / retention analysis, SaaS metrics (MRR, ARPPU, churn, LTV), reporting |
-| Other | Git / GitHub, Google Workspace |
-
----
-
-## How I usually work
-1. Understand the question (what decision the dashboard should support)  
-2. Clean and check the data  
-3. Calculate metrics  
-4. Visualize and add filters  
-5. Write a short conclusion a non-analyst can use  
-
----
-
-*Last updated: August 2026*
