@@ -1,6 +1,6 @@
 # Victoria Artemieva — Data Analyst Portfolio
 
-Junior / aspiring Business Data Analyst & BI specialist.  
+Junior / aspiring Business Data Analyst
 I work with SQL, PostgreSQL, Tableau, Python (Pandas), and Google Sheets: from messy raw data to metrics, dashboards, and a short written conclusion.
 
 📍 Budapest, Hungary  
