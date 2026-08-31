@@ -48,6 +48,7 @@ Cohort analysis on raw registration and event data.
 - Compared retention of promo vs organic users in an interactive cohort table
 
 [Google Sheets dashboard](https://docs.google.com/spreadsheets/d/1HobQo3Gj5D0oiEEN9ukysfp5lrtwJF9i-fPbvIz-XEE/edit?usp=sharing) 
+
 [SQL file](Cohort_Analysis.sql)
 
 ---
